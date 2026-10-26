@@ -2,9 +2,14 @@
 
 # News API Practice 
 
+- Python code that calls News API and returns news of a specified country.
+- Country name is tagged in the parameter's section (query).
 
 ## What It Does
 
+- Checks and confirms the API Key is attached and correct
+- Calls the News API through the address(URL)
+- Returns 10 random news articles
 
 ## Setup
 
